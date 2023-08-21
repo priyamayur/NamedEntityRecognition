@@ -1,1 +1,1 @@
-# NamedEntityRecognition
+# NeighborNER
